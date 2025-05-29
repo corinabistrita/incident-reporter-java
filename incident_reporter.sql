@@ -49,7 +49,7 @@ INSERT INTO users (username, password, role) VALUES
 ('user4', 'userpass4', 'user');
 
 INSERT INTO incidents (incident, description, priority, status, user_id) VALUES
-('Computer won\'t start', 'Black screen on boot', 'Urgent', 'Open', 2),
+('Computer won't start', 'Black screen on boot', 'Urgent', 'Open', 2),
 ('WiFi network issues', 'Unstable connection in office', 'Medium', 'In Progress', 3),
 ('Email not syncing', 'Emails are delayed', 'High', 'Open', 4),
 ('Printer not working', 'Printer shows error code E05', 'Medium', 'Resolved', 2),
